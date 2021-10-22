@@ -1,0 +1,7 @@
+{
+  "name": "Onsport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

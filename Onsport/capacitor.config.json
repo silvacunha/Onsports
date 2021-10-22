@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Onsport",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
